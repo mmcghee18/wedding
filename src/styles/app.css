@@ -23,7 +23,8 @@
 	--font-form: var(--sans);
 	--color-bg: var(--color-white);
 	--color-fg: rgb(65, 81, 76);
-	--color-primary: var(--color-black);
+	--color-accent: rgb(204, 160, 61);
+
 	--color-link: var(--color-black);
 	--color-focus: var(--color-red);
 	--color-mark: var(--color-yellow);

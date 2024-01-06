@@ -105,7 +105,7 @@
 	}
 
 	ul li a:hover {
-		border-bottom: 3px solid var(--color-fg);
+		border-bottom: 3px solid var(--color-accent);
 	}
 
 	.slide-nav {
