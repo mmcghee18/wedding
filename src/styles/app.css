@@ -19,7 +19,7 @@
 
 	/* presets (used in reset.css) */
 	--border-radius: 2px;
-	--font-body: var(--serif);
+	--font-body: var(--sans);
 	--font-form: var(--sans);
 	--color-bg: var(--color-white);
 	--color-fg: rgb(65, 81, 76);
@@ -92,4 +92,12 @@ h5 {
 
 h6 {
 	font-size: var(--20px, 20px);
+}
+
+a {
+	text-decoration: underline;
+	border-bottom: none;
+}
+a:hover {
+	background: var(--color-gray-100);
 }

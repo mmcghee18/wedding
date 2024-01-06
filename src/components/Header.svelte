@@ -71,6 +71,7 @@
 	h1 {
 		margin: 1rem 0 2rem 0;
 		text-align: center;
+		font-family: var(--serif);
 	}
 
 	nav {
@@ -106,6 +107,7 @@
 
 	ul li a:hover {
 		border-bottom: 3px solid var(--color-accent);
+		background: none;
 	}
 
 	.slide-nav {
