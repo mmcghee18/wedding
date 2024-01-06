@@ -25,7 +25,7 @@
 		locationName="Waterfall Lodge and Retreat"
 		locationAddress="180 Hidden Falls Trail, Ben Lomond, CA 95005"
 		locationLink={"https://maps.app.goo.gl/u2cjHNFdX4FQzMFf6"}
-		description="Join us for our ceremony in the redwoods followed by dinner and dancing!"
+		description="Join us for our ceremony in the redwoods followed by dinner and dancing."
 	/>
 	<Event
 		date="Sunday, June 2, 2024"
@@ -34,7 +34,7 @@
 		locationName="Wilder Ranch State Park"
 		locationAddress="1401 Coast Rd, Santa Cruz, CA 95060"
 		locationLink={"https://maps.app.goo.gl/U9AYH5vzKy2hn3wo6"}
-		description="Grab your own coffee & breakfast, and then join us for a hike on the beautiful California coast! We'll re-live our favorite memories of the weekend and say goodbye for now."
+		description="Grab your own coffee & breakfast, and then join us for a hike on the beautiful California coast. We'll re-live our favorite memories of the weekend and say goodbye for now."
 	/>
 </div>
 
@@ -51,6 +51,7 @@
 	h2 {
 		font-family: var(--serif);
 		display: none;
+		text-align: center;
 	}
 
 	@media (max-width: 750px) {
