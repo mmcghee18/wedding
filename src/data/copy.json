@@ -1,1 +1,12 @@
-{"title":"Title TK","description":"Description tk."}
+{
+	"heading": "Michelle & Megan",
+	"sections": [
+		{ "title": "Home" },
+		{ "title": "Schedule" },
+		{ "title": "Travel" },
+		{ "title": "FAQs" },
+		{ "title": "Gallery" },
+		{ "title": "Registry" },
+		{ "title": "RSVP" }
+	]
+}
