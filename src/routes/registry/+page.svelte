@@ -23,7 +23,7 @@
 <div id="zola-embed-container">
 	<a
 		class="zola-registry-embed"
-		href="www.zola.com/registry/michelleandmegan2024"
+		href="https://www.zola.com/registry/michelleandmegan2024/edit"
 		data-registry-key="michelleandmegan2024">Our Zola Wedding Registry</a
 	>
 </div>
