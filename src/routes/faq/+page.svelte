@@ -1,10 +1,11 @@
 <script>
+	import { base } from "$app/paths";
 	import Faq from "$components/Faq.svelte";
 
 	const faqs = [
 		{
 			question: "When should I RSVP by?",
-			answer: "Please <a href='/rsvp'>RSVP</a> by March 31st!"
+			answer: `Please <a href='${base}/rsvp'>RSVP</a> by March 31st!`
 		},
 		{
 			question: "Is there a dress code?",

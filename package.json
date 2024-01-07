@@ -1,5 +1,5 @@
 {
-	"name": "svelte-starter",
+	"name": "wedding",
 	"version": "5.14.0",
 	"scripts": {
 		"gdoc": "node tasks/fetch-google.js",

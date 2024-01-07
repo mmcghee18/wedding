@@ -8,10 +8,15 @@ const preprocess = sveltePreprocess({
 	}
 });
 
+const dev = process.env.NODE_ENV === "development";
+
 const config = {
 	preprocess,
 	kit: {
-		adapter: adapterStatic()
+		adapter: adapterStatic(),
+		paths: {
+			base: dev ? "" : "/wedding"
+		}
 	},
 	vitePlugin: {
 		// experimental: {

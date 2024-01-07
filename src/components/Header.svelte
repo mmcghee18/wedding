@@ -1,4 +1,5 @@
 <script>
+	import { base } from "$app/paths";
 	import Icon from "$components/helpers/Icon.svelte";
 	import viewport from "$stores/viewport.js";
 
@@ -19,13 +20,13 @@
 
 	<nav>
 		<ul class="desktop">
-			<li><a href="/">Home</a></li>
-			<li><a href="/schedule">Schedule</a></li>
-			<li><a href="/travel">Travel</a></li>
-			<li><a href="/faq">FAQs</a></li>
-			<li><a href="/photos">Photos</a></li>
-			<li><a href="/registry">Registry</a></li>
-			<li><a href="/rsvp">RSVP</a></li>
+			<li><a href={`${base}/`}>Home</a></li>
+			<li><a href={`${base}/schedule`}>Schedule</a></li>
+			<li><a href={`${base}/travel`}>Travel</a></li>
+			<li><a href={`${base}/faq`}>FAQs</a></li>
+			<li><a href={`${base}/photos`}>Photos</a></li>
+			<li><a href={`${base}/registry`}>Registry</a></li>
+			<li><a href={`${base}/rsvp`}>RSVP</a></li>
 		</ul>
 
 		<div class="slide-nav" class:visible={menuOpen}>
@@ -34,13 +35,13 @@
 			</button>
 
 			<ul class="mobile">
-				<li><a href="/">Home</a></li>
-				<li><a href="/schedule">Schedule</a></li>
-				<li><a href="/registry">Registry</a></li>
-				<li><a href="/travel">Travel</a></li>
-				<li><a href="/faq">FAQs</a></li>
-				<li><a href="/photos">Photos</a></li>
-				<li><a href="/rsvp">RSVP</a></li>
+				<li><a href={`${base}/`}>Home</a></li>
+				<li><a href={`${base}/schedule`}>Schedule</a></li>
+				<li><a href={`${base}/travel`}>Travel</a></li>
+				<li><a href={`${base}/faq`}>FAQs</a></li>
+				<li><a href={`${base}/photos`}>Photos</a></li>
+				<li><a href={`${base}/registry`}>Registry</a></li>
+				<li><a href={`${base}/rsvp`}>RSVP</a></li>
 			</ul>
 		</div>
 	</nav>
