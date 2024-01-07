@@ -16,4 +16,10 @@
 		margin: auto;
 		padding: 3rem 5rem;
 	}
+
+	@media (max-width: 750px) {
+		main {
+			padding: 1rem 2rem;
+		}
+	}
 </style>

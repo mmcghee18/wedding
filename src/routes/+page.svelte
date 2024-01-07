@@ -1,7 +1,7 @@
 <div class="pics">
-	<img src="assets/img/pic4.jpg" />
-	<img src="assets/img/pic3.jpg" />
-	<img src="assets/img/pic1.jpg" />
+	<img src="home/pic4.jpg" />
+	<img src="home/pic3.jpg" />
+	<img src="home/pic1.jpg" />
 </div>
 
 <p>
