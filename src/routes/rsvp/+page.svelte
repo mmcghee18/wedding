@@ -1,5 +1,9 @@
+<script>
+	import PageTitle from "$components/PageTitle.svelte";
+</script>
+
 <div class="rsvp">
-	<h2>RSVP</h2>
+	<PageTitle>RSVP</PageTitle>
 
 	<a
 		href="https://www.zola.com/wedding/michelleandmegan2024/rsvp"
@@ -22,6 +26,7 @@
 	}
 	a {
 		font-size: 3rem;
+		text-align: center;
 	}
 
 	@media (max-width: 750px) {

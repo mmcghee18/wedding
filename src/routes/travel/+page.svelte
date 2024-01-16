@@ -1,4 +1,8 @@
-<h2>Travel</h2>
+<script>
+	import PageTitle from "$components/PageTitle.svelte";
+</script>
+
+<PageTitle>Travel</PageTitle>
 
 <div class="getting-there">
 	<h3>Getting there</h3>
@@ -21,12 +25,16 @@
 	<h3>Where to stay</h3>
 	<ul>
 		<li>
-			<strong>Waterfall Lodge</strong> - This is where Saturday's ceremony and reception
-			will be held. There are cabins that are available on Saturday night only. This
-			is a great option if you don't want to drive after the party, or just want
-			more time in the redwoods! Cabins are $295 each, and can be occupied by groups
-			of 2-4. If you are interested in this, please indicate that in your RSVP and
-			we'll be in touch.
+			<strong>Waterfall Lodge</strong> - This is where Saturday's ceremony and
+			reception will be held. There are cabins that are available on Saturday
+			night only. This is a great option if you don't want to drive after the
+			party, or just want more time in the redwoods! Cabins are $295 each, and
+			can be occupied by groups of 2-4. If you are interested in this, please
+			indicate that in your
+			<a
+				href="https://www.zola.com/wedding/michelleandmegan2024/rsvp"
+				target="_blank">RSVP</a
+			> and we'll be in touch.
 		</li>
 
 		<li><strong>Hotels</strong> - There are a number of nearby hotels.</li>
@@ -61,11 +69,6 @@
 </div>
 
 <style>
-	h2 {
-		text-align: center;
-		font-family: var(--serif);
-		display: none;
-	}
 	h3 {
 		font-family: var(--serif);
 	}
@@ -81,11 +84,5 @@
 	}
 	.where-to-stay {
 		margin-top: 4rem;
-	}
-
-	@media (max-width: 750px) {
-		h2 {
-			display: block;
-		}
 	}
 </style>

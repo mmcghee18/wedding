@@ -1,11 +1,12 @@
 <script>
 	import { base } from "$app/paths";
 	import Faq from "$components/Faq.svelte";
+	import PageTitle from "$components/PageTitle.svelte";
 
 	const faqs = [
 		{
 			question: "When should I RSVP by?",
-			answer: `Please <a href='${base}/rsvp'>RSVP</a> by March 31st!`
+			answer: `Please <a href='https://www.zola.com/wedding/michelleandmegan2024/rsvp' target='_blank'>RSVP</a> by March 31st!`
 		},
 		{
 			question: "Is there a dress code?",
@@ -18,7 +19,7 @@
 				"Do what is best for you! Your kids are completely welcome, and you're also completely welcome to leave them home."
 		},
 		{
-			question: "Can I bring A date?",
+			question: "Can I bring a date?",
 			answer:
 				"If your invitation includes a +1, then yes. If not, reach out and we'll see what we can do as RSVPs come in."
 		},
@@ -26,7 +27,7 @@
 			question:
 				"I want to stay in one of those gorgeous cabins on Saturday! What do I do?",
 			answer:
-				"Sweet! On your RSVP, indicate that you're interested. We will follow up with you from there."
+				"Sweet! On your <a href='https://www.zola.com/wedding/michelleandmegan2024/rsvp' target='_blank'>RSVP</a>, indicate that you're interested. We will follow up with you from there."
 		},
 		{
 			question:
@@ -38,7 +39,7 @@
 </script>
 
 <div class="faq-title">
-	<h2>Frequently Asked Questions</h2>
+	<PageTitle>Frequently Asked Questions</PageTitle>
 	<p>
 		If you don't see your question answered here, email us at
 		michmac202@gmail.com

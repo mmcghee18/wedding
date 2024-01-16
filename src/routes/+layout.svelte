@@ -14,12 +14,12 @@
 	main {
 		max-width: 1000px;
 		margin: auto;
-		padding: 3rem 5rem;
+		padding: 2rem 5rem;
 	}
 
 	@media (max-width: 750px) {
 		main {
-			padding: 1rem 2rem;
+			padding: 0rem 2rem;
 		}
 	}
 </style>

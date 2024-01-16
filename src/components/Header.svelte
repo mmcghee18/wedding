@@ -2,46 +2,87 @@
 	import { base } from "$app/paths";
 	import Icon from "$components/helpers/Icon.svelte";
 	import viewport from "$stores/viewport.js";
+	import _ from "lodash";
+	import { onMount } from "svelte";
+	import { afterNavigate } from "$app/navigation";
 
+	let names = ["Michelle", "Megan"];
+	let currentPage;
 	let menuOpen = false;
+	const openMenu = () => (menuOpen = true);
+	const closeMenu = () => (menuOpen = false);
+
+	const pages = [
+		"home",
+		"events",
+		"travel",
+		"faq",
+		"photos",
+		"registry",
+		"rsvp"
+	];
 
 	$: {
 		if ($viewport.width > 750) {
-			menuOpen = false;
+			closeMenu();
 		}
 	}
+
+	onMount(() => {
+		names = _.shuffle(names);
+	});
+	afterNavigate(() => {
+		currentPage = window.location.pathname.split("/")[1];
+	});
 </script>
 
 <header>
-	<h1>Michelle & Megan</h1>
-	<button class="open-menu" on:click={() => (menuOpen = true)}>
+	<h1>{names[0]} & {names[1]}</h1>
+	<button class="open-menu" on:click={openMenu}>
 		<Icon name="menu" />
 	</button>
 
 	<nav>
 		<ul class="desktop">
-			<li><a href={`${base}/`}>Home</a></li>
-			<li><a href={`${base}/schedule`}>Schedule</a></li>
-			<li><a href={`${base}/travel`}>Travel</a></li>
-			<li><a href={`${base}/faq`}>FAQs</a></li>
-			<li><a href={`${base}/photos`}>Photos</a></li>
-			<li><a href={`${base}/registry`}>Registry</a></li>
-			<li><a href={`${base}/rsvp`}>RSVP</a></li>
+			{#each pages as page}
+				{@const link = `${base}/${page === "home" ? "" : page}`}
+				{@const selected =
+					(page === "home" && currentPage === "") || currentPage === page}
+				{@const display =
+					page === "faq"
+						? "FAQs"
+						: page === "rsvp"
+						  ? "RSVP"
+						  : _.startCase(page)}
+				<li>
+					<a href={link} class:selected>{display}</a>
+				</li>
+			{/each}
 		</ul>
 
 		<div class="slide-nav" class:visible={menuOpen}>
-			<button class="close-menu" on:click={() => (menuOpen = false)}>
-				<Icon name="x" />
+			<button class="close-menu" on:click={closeMenu}>
+				<Icon name="x" stroke="white" />
 			</button>
 
+			<div class="info">
+				<div>Michelle & Megan</div>
+				<div>June 1, 2024</div>
+			</div>
+
 			<ul class="mobile">
-				<li><a href={`${base}/`}>Home</a></li>
-				<li><a href={`${base}/schedule`}>Schedule</a></li>
-				<li><a href={`${base}/travel`}>Travel</a></li>
-				<li><a href={`${base}/faq`}>FAQs</a></li>
-				<li><a href={`${base}/photos`}>Photos</a></li>
-				<li><a href={`${base}/registry`}>Registry</a></li>
-				<li><a href={`${base}/rsvp`}>RSVP</a></li>
+				{#each pages as page}
+					{@const link = `${base}/${page === "home" ? "" : page}`}
+					{@const display =
+						page === "faq"
+							? "FAQs"
+							: page === "rsvp"
+							  ? "RSVP"
+							  : _.startCase(page)}
+					<li>
+						<a href={link} on:click={closeMenu}>{display}</a>
+					</li>
+				{/each}
 			</ul>
 		</div>
 	</nav>
@@ -90,7 +131,7 @@
 	}
 	ul.mobile {
 		flex-direction: column;
-		margin-top: 3rem;
+		margin-top: 2rem;
 	}
 
 	ul li {
@@ -98,23 +139,30 @@
 	}
 	ul.mobile li {
 		font-size: 1.5rem;
-		margin: 1rem;
+		margin: 1rem 0;
 	}
 
 	li a {
 		text-decoration: none;
 		border-bottom: none;
 	}
-
+	li a.selected {
+		border-bottom: 3px solid var(--color-accent);
+	}
 	ul li a:hover {
 		border-bottom: 3px solid var(--color-accent);
 		background: none;
 	}
+	ul.mobile li a {
+		color: white;
+	}
 
 	.slide-nav {
-		background-color: lightgrey;
+		z-index: 1000;
+		background: var(--color-fg);
+		color: white;
 		height: 100%;
-		padding: 1rem;
+		padding: 3.5rem 2rem;
 		position: fixed;
 		right: 0;
 		top: 0;
@@ -135,6 +183,11 @@
 		background: none;
 	}
 
+	.info {
+		border-bottom: 1px solid var(--color-gray-400);
+		padding-bottom: 2rem;
+	}
+
 	@media (max-width: 750px) {
 		ul.desktop {
 			display: none;
@@ -142,11 +195,8 @@
 		.open-menu {
 			display: flex;
 		}
-	}
-
-	@media (max-width: 600px) {
 		h1 {
-			font-size: 2rem;
+			display: none;
 		}
 	}
 </style>

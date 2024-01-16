@@ -96,6 +96,8 @@ h6 {
 
 a {
 	text-decoration: underline;
+	text-decoration-color: var(--color-accent) !important;
+	text-decoration-thickness: 3px !important;
 	border-bottom: none;
 	color: var(--color-fg);
 }

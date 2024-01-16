@@ -1,5 +1,6 @@
 <script>
 	import { onMount } from "svelte";
+	import PageTitle from "$components/PageTitle.svelte";
 
 	onMount(() => {
 		// Check if the script is already added
@@ -14,6 +15,8 @@
 		}
 	});
 </script>
+
+<PageTitle>Registry</PageTitle>
 
 <p>Your presence is the best gift!</p>
 <p>
