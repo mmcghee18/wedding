@@ -1,0 +1,81 @@
+responded,coming,Name,Street Address,Street Address (line 2),City,State / Region,Zip / Postal Code,Country (if not USA),Full Address,Latitude,Longitude
+FALSE,FALSE,Zoë Ackerman,4508 Tompkins Avenue,,Oakland,CA,94619,,4508 Tompkins Avenue  Oakland CA 94619  ,37.7896501,-122.1857133
+FALSE,FALSE,Kathi Antolak and Tim Breen,2264 Nw 7th St,,Bend,OR,97703,,2264 Nw 7th St  Bend OR 97703  ,44.0697146,-121.3212333
+FALSE,FALSE,Amel Awadelkarim and Jacob Smith,222 Mather Street,,Oakland,CA,94611,,222 Mather Street  Oakland CA 94611  ,37.8316701,-122.2501267
+FALSE,FALSE,Dan and Anne Bradford,2146 Woodleaf Way,,Mountain View,CA,94040,,2146 Woodleaf Way  Mountain View CA 94040  ,37.3725366,-122.076088
+FALSE,FALSE,The Cahndexter Family,114 City Limits Circle,,Oakland,CA,94608,,114 City Limits Circle  Oakland CA 94608  ,37.8493179,-122.287717
+FALSE,FALSE,Eliza Chang and Ryan Wang,158 Missouri Street,,San Francisco,CA,94107,,158 Missouri Street  San Francisco CA 94107  ,37.7643498,-122.3969718
+FALSE,FALSE,Freya Chay and Jack Lane,5260 Lawton Avenue,,Oakland,CA,94618,,5260 Lawton Avenue  Oakland CA 94618  ,37.8382508,-122.2547318
+FALSE,FALSE,The Coleman-Meyerson Family,1315 Edmund Avenue West,,Saint Paul,MN,55104,,1315 Edmund Avenue West  Saint Paul MN 55104  ,44.9586569,-93.1557105
+FALSE,FALSE,The Culhane Family,103 Thousand Oaks Dr,,Pittsburgh,PA,15241,,103 Thousand Oaks Dr  Pittsburgh PA 15241  ,40.3059123,-80.0906376
+FALSE,FALSE,Diane Culhane,2322 Walnut Ave SW,,Seattle,WA,98116,,2322 Walnut Ave SW  Seattle WA 98116  ,47.5827022,-122.382532
+FALSE,FALSE,Kaitlyn Custer,2430 Humboldt Ave,B,Oakland,CA,94601,,2430 Humboldt Ave B Oakland CA 94601  ,37.7880923,-122.2130689
+FALSE,FALSE,Michelle Darby and Dan Klein,1043 57th Street,,Oakland,CA,94608,,1043 57th Street  Oakland CA 94608  ,37.8406253,-122.2800762
+FALSE,FALSE,The Denecour Family,1303 Hubbard Ave,,Saint Paul,MN,55104,,1303 Hubbard Ave  Saint Paul MN 55104  ,44.9658832,-93.1552487
+FALSE,FALSE,Blake Falk,"Flat 47, 261b City Road",,London,Greater London,EC1V1AJ,GB,"Flat 47, 261b City Road  London Greater London EC1V1AJ GB ",51.5297564,-0.0966742
+FALSE,FALSE,Anne Marie Gordon and Angela Aie,679 43rd street,,Oakland,CA,94609,,679 43rd street  Oakland CA 94609  ,37.8322085,-122.2687443
+FALSE,FALSE,Alison Griffith,443 43rd St.,B,Oakland,CA,94609,,443 43rd St. B Oakland CA 94609  ,37.8315927,-122.26116
+FALSE,FALSE,The Hagen Family,13949 Ashford Path,,Rosemount,MN,55068,,13949 Ashford Path  Rosemount MN 55068  ,44.7484798,-93.089773
+FALSE,FALSE,Mr. Kai Hallberg,1227 Clay St,Apt 6,San Francisco,CA,94108,,1227 Clay St Apt 6 San Francisco CA 94108  ,37.7932449,-122.4133837
+TRUE,TRUE,Kara Hammer and Allegra Mayer,665 Poirier St,,Oakland,CA,94609,,665 Poirier St  Oakland CA 94609  ,37.8468,-122.2677785
+FALSE,FALSE,Lexi Hasan,53 Lundys Ln,,San Francisco,CA,94110,,53 Lundys Ln  San Francisco CA 94110  ,37.7441814,-122.4186527
+FALSE,FALSE,Melissa Hassler and Joe Willenborg,667 Poirier St,,Oakland,CA,94609,,667 Poirier St  Oakland CA 94609  ,37.8468625,-122.2677998
+FALSE,FALSE,Barbara Hjort,66 E. Saint Marie St.,317,Duluth,MN,55803,,66 E. Saint Marie St. 317 Duluth MN 55803  ,46.8213766,-92.0702323
+FALSE,FALSE,Tammy Jenkins,1940 Biltmore St NW,Apt 63,Washington,DC,20009,,1940 Biltmore St NW Apt 63 Washington DC 20009  ,38.9220369,-77.0463666
+FALSE,FALSE,Mrs. De'Onna and Mr. Caleb Johnson,13262 Wrangler St,,ROBSTOWN,TX,78380,,13262 Wrangler St  ROBSTOWN TX 78380  ,27.842873,-97.6278802
+FALSE,FALSE,Mrs. Sarah and Mr. Dell Johnson,6426 Wilshire Lakes,,Houston,TX,77040,,6426 Wilshire Lakes  Houston TX 77040  ,29.8570368,-95.5010716
+FALSE,FALSE,The Johnstone Family,5827 E. Fairfield St,,Mesa,AZ,85205,,5827 E. Fairfield St  Mesa AZ 85205  ,33.4343985,-111.7055016
+FALSE,FALSE,Bethany Kaylor,3033 Harper st,A,Berkeley,CA,94703,,3033 Harper st A Berkeley CA 94703  ,37.853025,-122.2717912
+FALSE,FALSE,Adrianne Kehne,240 Allston St,#2,Cambridge,MA,2139,,240 Allston St #2 Cambridge MA 2139  ,42.3595614,-71.1101606
+FALSE,FALSE,Kara Kelly and Morissa Zuckerman,2127 Woolsey St,,Berkeley,CA,94705,,2127 Woolsey St  Berkeley CA 94705  ,37.85272,-122.2648792
+FALSE,FALSE,The Kenney Family,2302 Nottingham Dr.,,Valparaiso,IN,46383,,2302 Nottingham Dr.  Valparaiso IN 46383  ,41.5088559,-87.0331067
+FALSE,FALSE,The Ketler Family,642 central ave,,Leavenworth,WA,98826,,642 central ave  Leavenworth WA 98826  ,47.6018693,-120.6628515
+FALSE,FALSE,Sonya Khattak and Troy Homesley,832 Southwest Drive,,Davidson,NC,28036,,832 Southwest Drive  Davidson NC 28036  ,35.5030233,-80.8705359
+FALSE,FALSE,Emmy Kolanz and Briana Sanchez,710 Canyon Oaks Dr.,Apt D,Oakland,CA,94605,,710 Canyon Oaks Dr. Apt D Oakland CA 94605  ,37.7735713,-122.1440457
+FALSE,FALSE,Gerry and Diane Larson,2180 St. Stephen St,,Roseville,MN,55113,,2180 St. Stephen St  Roseville MN 55113  ,45.0068442,-93.1983313
+FALSE,FALSE,Mr. Scott Leach and Barb,"1535 , Highland Ct",,Stillwater,MN,55082,,"1535 , Highland Ct  Stillwater MN 55082  ",45.0439774,-92.8306096
+FALSE,FALSE,Tavis Leighton,835 Curtiss st.,#101,Downers Grove,IL,60515,,835 Curtiss st. #101 Downers Grove IL 60515  ,41.7941829,-88.0059051
+FALSE,FALSE,Adrienne Lemberger and Cassandra Spindler,1659 Julia St,Apt B,Berkeley,CA,94703,,1659 Julia St Apt B Berkeley CA 94703  ,37.8549098,-122.2746513
+FALSE,FALSE,Iris Leung and Lacey Atkinson,2071 San Jose Ave,Apt A,Alameda,CA,94501,,2071 San Jose Ave Apt A Alameda CA 94501  ,37.7640407,-122.2522946
+FALSE,FALSE,Dr. Kim Long and Dr. Scott Beamer,1450 Alice St.,#40,Oakland,CA,94612,,1450 Alice St. #40 Oakland CA 94612  ,37.803159,-122.2657875
+FALSE,FALSE,The Lynn Family,14684 NW Cornell Rd,Apt 74,Portland,OR,97229,,14684 NW Cornell Rd Apt 74 Portland OR 97229  ,45.529997,-122.8288246
+FALSE,FALSE,Dexter McGhee,1119 Highland Oaks,,San Antonio,TX,78227,,1119 Highland Oaks  San Antonio TX 78227  ,29.4240145,-98.6249366
+TRUE,TRUE,James McGhee,936 Madison St,3A,Brooklyn,NY,11221,,936 Madison St 3A Brooklyn NY 11221  ,40.6880514,-73.9200313
+TRUE,TRUE,Ray and Kristi McGhee,6601 Eastern Ave,,Takoma Park,MD,20912,,6601 Eastern Ave  Takoma Park MD 20912  ,38.9701008,-77.007483
+FALSE,FALSE,Regina McGhee,2159 Lambert Drive,,Pasadena,CA,91107,,2159 Lambert Drive  Pasadena CA 91107  ,34.1574772,-118.1059127
+FALSE,FALSE,Ms. Mallory Meiser,1104 Bedford Avenue,202,Brooklyn,NY,11216,,1104 Bedford Avenue 202 Brooklyn NY 11216  ,40.6868962,-73.9549479
+FALSE,FALSE,Mr. Zack Meyer and Dr. Kelsey Grinde,1880 Laurel Ave,,St. Paul,MN,55104,,1880 Laurel Ave  St. Paul MN 55104  ,44.9448942,-93.1798935
+FALSE,FALSE,The Miller Family,1716 Amen Corner Ct,,Chesterton,IN,46304-3466,,1716 Amen Corner Ct  Chesterton IN 46304-3466  ,41.5913896,-87.0281077
+FALSE,FALSE,The Molmen Family,1431 Portland Ave,,Albany,CA,94706,,1431 Portland Ave  Albany CA 94706  ,37.895041,-122.2897084
+FALSE,FALSE,Sarah Mondschein,3140 Emerson Ave S,Apt 203,Minneapolis,MN,55408,,3140 Emerson Ave S Apt 203 Minneapolis MN 55408  ,44.9451652,-93.2948549
+FALSE,FALSE,David Mora and Eleanor Collier,3452 Mulberry St,2,Riverside,CA,92501,,3452 Mulberry St 2 Riverside CA 92501  ,33.983068,-117.3673707
+FALSE,FALSE,Ben Pera and Kelly McDermott,3200 Wenonah,,Berwyn,IL,60402,,3200 Wenonah  Berwyn IL 60402  ,41.8338877,-87.7993296
+FALSE,FALSE,The Pera-Lansing Family,14 Imperial Place,#602,Providence,RI,2903,,14 Imperial Place #602 Providence RI 2903  ,41.8171753,-71.4115604
+FALSE,FALSE,The Pera Family,5537 Laurel Ave,,Lagrange Highlands,IL,60525,,5537 Laurel Ave  Lagrange Highlands IL 60525  ,41.7891651,-87.8906608
+FALSE,FALSE,John and Peggy Pera,1486 Rainy Brook Way,,CROWN POINT,IN,46307-5341,,1486 Rainy Brook Way  CROWN POINT IN 46307-5341  ,41.3915988,-87.3381395
+FALSE,FALSE,Jonni and Dave Pera,2604 Willowwood Ave,,Valparaiso,IN,46383,,2604 Willowwood Ave  Valparaiso IN 46383  ,41.5040015,-87.0287131
+FALSE,FALSE,Mark and Leslie Pera,108 East 5th Street,,Hinsdale,IL,60521,,108 East 5th Street  Hinsdale IL 60521  ,41.7969828,-87.9266242
+FALSE,FALSE,The Pera Family,1540 Duffer Drive,,Chesterton,IN,46304,,1540 Duffer Drive  Chesterton IN 46304  ,41.5951882,-87.1038954
+FALSE,FALSE,Sam Pera,2205 Wrocklage ave,,Louisville,KY,40205,,2205 Wrocklage ave  Louisville KY 40205  ,38.2255304,-85.6862727
+FALSE,FALSE,Tim Pera and Kathie Culhane-Pera,11692 E Bankey Rd,,Lake Nebagamon,WI,54849,,11692 E Bankey Rd  Lake Nebagamon WI 54849  ,46.5142747,-91.6935795
+FALSE,FALSE,Tom and Bea Pera,,,,,,,      ,,
+FALSE,FALSE,Donna and Dudley Ponder,13522 W Cypress Forest Drive,,Houston,TX,77070,,13522 W Cypress Forest Drive  Houston TX 77070  ,29.9717787,-95.5774403
+FALSE,FALSE,Garrett Ponder,13522 W Cypress Forest,,Houston,TX,77070,,13522 W Cypress Forest  Houston TX 77070  ,29.9717787,-95.5774403
+FALSE,FALSE,Mary Ponder,17878 Preston Rd,Apt 174,Dallas,TX,75252,,17878 Preston Rd Apt 174 Dallas TX 75252  ,32.9959255,-96.7961829
+FALSE,FALSE,Nathan Ponder,2016 Banita Street,APT4,Nacogdoches,TX,75965,,2016 Banita Street APT4 Nacogdoches TX 75965  ,31.6223817,-94.6538138
+FALSE,FALSE,Raymond and Tera Ponder,3131 Memorial Ct.,Apt 2113,Houston,TX,77007,,3131 Memorial Ct. Apt 2113 Houston TX 77007  ,29.7640454,-95.3917465
+FALSE,FALSE,Wayne and Alba Ponder,10003 Berrybriar Lane,,Tomball,TX,77375,,10003 Berrybriar Lane  Tomball TX 77375  ,30.0650902,-95.570199
+FALSE,FALSE,The Przybylski Family,5587 Mulligan Drive,,Wheatfield,IN,46392,,5587 Mulligan Drive  Wheatfield IN 46392  ,41.1633422,-87.1523214
+FALSE,FALSE,Marisa and Cyrus Rafter,3954 W Barnet Rd,,Barnet,VT,5821,,3954 W Barnet Rd  Barnet VT 5821  ,44.3113089,-72.1274778
+FALSE,FALSE,Lindsey Redd and Ngozi Olojede,580 Marcy Ave,Apt 2A,Brooklyn,NY,11206,,580 Marcy Ave Apt 2A Brooklyn NY 11206  ,40.6948668,-73.9493277
+FALSE,FALSE,Gretchen and Steve Robertson,1562 Laurel Ave,,St. Paul,MN,55104,,1562 Laurel Ave  St. Paul MN 55104  ,44.944803,-93.1662377
+FALSE,FALSE,Jessalyn Siu and Aaron Shi,310 Euclid Ave,,Oakland,CA,94610,,310 Euclid Ave  Oakland CA 94610  ,37.8138716,-122.2522502
+FALSE,FALSE,Ellie Sjordal and John McCarron,,,,,,,      ,,
+FALSE,FALSE,Katie Swinnerton and Anna DeSanctis,5321 Miles Avenue,X,OAKLAND,CA,94618,,5321 Miles Avenue X OAKLAND CA 94618  ,37.840944,-122.2575746
+FALSE,FALSE,Abby and Christina VanMuijen,390 42nd street,,Oakland,CA,94609,,390 42nd street  Oakland CA 94609  ,37.83123,-122.2588349
+FALSE,FALSE,Bill Webster,1242 P Street,,Sacramento,CA,95814,,1242 P Street  Sacramento CA 95814  ,38.5724504,-121.4924209
+FALSE,FALSE,Mr. Brett and Mrs. Sue Webster,9516 Tresanton Dr.,,Charlotte,NC,28210,,9516 Tresanton Dr.  Charlotte NC 28210  ,35.1005282,-80.8725218
+FALSE,FALSE,Kate Webster and Bo Price,1213 Miller Ave,,Ann Arbor,MI,48103,,1213 Miller Ave  Ann Arbor MI 48103  ,42.2876161,-83.7629622
+FALSE,FALSE,Kris and Kristopher Webster,6521 Rosecrest Drive,,Charlotte,NC,28210,,6521 Rosecrest Drive  Charlotte NC 28210  ,35.1471291,-80.8727812
+FALSE,FALSE,The Wright-Remington Family,Unit 6130,BOX# 101,DPO,AE,09291-0101,,Unit 6130 BOX# 101 DPO AE 09291-0101  ,,
+FALSE,FALSE,Diana Zhang and Katrina Kalantar,1028 Grayson St.,,Berkeley,CA,94710,,1028 Grayson St.  Berkeley CA 94710  ,37.8558601,-122.2887493

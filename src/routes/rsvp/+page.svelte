@@ -1,5 +1,6 @@
 <script>
 	import PageTitle from "$components/PageTitle.svelte";
+	import Map from "$components/Map.svelte";
 </script>
 
 <div class="rsvp">
@@ -10,7 +11,11 @@
 		target="_blank">Click here to RSVP.</a
 	>
 
-	<p>Please RSVP by March 31st!</p>
+	<p>Please RSVP by April 1st!</p>
+</div>
+
+<div class="map">
+	<Map />
 </div>
 
 <style>

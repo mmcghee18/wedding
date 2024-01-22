@@ -6,7 +6,7 @@
 	const faqs = [
 		{
 			question: "When should I RSVP by?",
-			answer: `Please <a href='https://www.zola.com/wedding/michelleandmegan2024/rsvp' target='_blank'>RSVP</a> by March 31st!`
+			answer: `Please <a href='https://www.zola.com/wedding/michelleandmegan2024/rsvp' target='_blank'>RSVP</a> by April 1st!`
 		},
 		{
 			question: "Is there a dress code?",

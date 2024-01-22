@@ -12,7 +12,7 @@
 			Please <a
 				href={"https://www.zola.com/wedding/michelleandmegan2024/rsvp"}
 				target="_blank">RSVP</a
-			> by March 31st :)
+			> by April 1st :)
 		</div>
 	</div>
 

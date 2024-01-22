@@ -1,7 +1,26 @@
+/* Caslon Roman */
+@font-face {
+	font-family: "Caslon Roman";
+	src: url("font/Caslon_Roman.ttf") format("truetype");
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: normal;
+	font-display: swap;
+}
+/* @font-face {
+	font-family: "Caslon Roman";
+	src: url("font/Calson_Bold.ttf") format("truetype");
+	font-weight: 600;
+	font-style: normal;
+	font-stretch: normal;
+	font-display: swap;
+} */
+
 /* National */
 @font-face {
 	font-family: "National 2 Web";
-	src: url("https://pudding.cool/assets/fonts/national/National2Web-Regular.woff2") format("woff2");
+	src: url("https://pudding.cool/assets/fonts/national/National2Web-Regular.woff2")
+		format("woff2");
 	font-weight: 400;
 	font-style: normal;
 	font-stretch: normal;
@@ -10,7 +29,8 @@
 
 @font-face {
 	font-family: "National 2 Web";
-	src: url("https://pudding.cool/assets/fonts/national/National2Web-Bold.woff2") format("woff2");
+	src: url("https://pudding.cool/assets/fonts/national/National2Web-Bold.woff2")
+		format("woff2");
 	font-weight: 700;
 	font-style: normal;
 	font-stretch: normal;
@@ -20,7 +40,8 @@
 /* Tiempos Text */
 @font-face {
 	font-family: "Tiempos Text Web";
-	src: url("https://pudding.cool/assets/fonts/tiempos/TiemposTextWeb-Regular.woff2") format("woff2");
+	src: url("https://pudding.cool/assets/fonts/tiempos/TiemposTextWeb-Regular.woff2")
+		format("woff2");
 	font-weight: 400;
 	font-style: normal;
 	font-stretch: normal;
@@ -29,7 +50,8 @@
 
 @font-face {
 	font-family: "Tiempos Text Web";
-	src: url("https://pudding.cool/assets/fonts/tiempos/TiemposTextWeb-Bold.woff2") format("woff2");
+	src: url("https://pudding.cool/assets/fonts/tiempos/TiemposTextWeb-Bold.woff2")
+		format("woff2");
 	font-weight: 700;
 	font-style: normal;
 	font-stretch: normal;
