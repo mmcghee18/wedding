@@ -11,12 +11,12 @@
 		{
 			question: "Is there a dress code?",
 			answer:
-				'Forest Formal!\n\nBy which we mean, something special and fancy, but also reasonable to wear in the woods.\n\n(If you need an official term, we\'ll go with "semi-formal.")'
+				"Semi-formal or (a term we made up) Forest Formal!\n\nBy which we mean, something special and fancy, but also reasonable to wear in the woods (maybe not your highest heel)."
 		},
 		{
 			question: "Are kids invited?",
 			answer:
-				"Do what is best for you! Your kids are completely welcome, and you're also completely welcome to leave them home."
+				"Do what is best for you! Your kids are welcome if you'd like to bring them."
 		},
 		{
 			question: "Can I bring a date?",
@@ -33,7 +33,7 @@
 			question:
 				"I'm not staying onsite on Saturday. Explain the whole shuttle thing again?",
 			answer:
-				"Gladly.\n\nWaterfall Lodge does not allow people to park onsite unless they're staying there overnight.\n\nSo, on Saturday, you'll park in the parking lot of a church that is 5 minutes from Waterfall Lodge. Here's the address: <a href='https://maps.app.goo.gl/ZDKXz6fA4psmTPGC7'>St Peter & St Paul Orthodox</a>.\n\nFrom there, a shuttle will pick you up and bring you to Waterfall Lodge for the ceremony and reception. The shuttles will also bring guests back to their cars at the end of the night.\n\nIf you're staying onsite on Saturday, you can park at Waterfall Lodge."
+				"Waterfall Lodge does not allow people to park onsite unless they're staying there overnight.\n\nSo, on Saturday, you'll park in the parking lot of a church that is 5 minutes from Waterfall Lodge. Here's the address: <a href='https://maps.app.goo.gl/ZDKXz6fA4psmTPGC7'>St Peter & St Paul Orthodox</a>.\n\nFrom there, a shuttle will pick you up and bring you to Waterfall Lodge for the ceremony and reception. The shuttles will also bring guests back to their cars at the end of the night.\n\nIf you're staying onsite on Saturday, you can park at Waterfall Lodge."
 		}
 	];
 </script>
@@ -42,7 +42,7 @@
 	<PageTitle>Frequently Asked Questions</PageTitle>
 	<p>
 		If you don't see your question answered here, email us at
-		michmac202@gmail.com
+		<strong>michellemegan.2024@gmail.com</strong>.
 	</p>
 </div>
 

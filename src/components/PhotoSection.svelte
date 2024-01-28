@@ -1,51 +1,41 @@
 <script>
+	import { onMount } from "svelte";
 	import _ from "lodash";
 
 	export let title;
 	export let pics;
 	export let description;
-
-	let picWidth;
 </script>
 
 <h3>{title}</h3>
 <p>{description}</p>
 <div class="outer">
-	<div
-		class="inner"
-		bind:clientWidth={picWidth}
-		style={`--pic-width: ${picWidth * -1}px`}
-	>
-		{#each _.range(pics) as i}
-			<img src={`${title}-${i + 1}.jpeg`} />
-		{/each}
-	</div>
+	{#each _.range(pics) as i}
+		<img src={`${title}-${i + 1}.jpeg`} alt={`Image ${i + 1}`} />
+	{/each}
 </div>
 
 <style>
 	.outer {
 		display: flex;
 		width: 100%;
-		overflow: hidden;
+		overflow: scroll;
+		background: var(--color-gray-100);
+		padding: 10px;
 	}
 	.inner {
 		display: flex;
-		/* animation: slide 10s infinite linear; */
+		overflow: scroll;
+	}
+	.img-wrapper {
+		display: flex;
 	}
 	img {
-		padding: 10px 3px;
-		background: var(--color-gray-100);
 		height: 300px;
 		width: auto;
+		margin-right: 10px;
 	}
-
-	@keyframes slide {
-		0%,
-		100% {
-			transform: translateX(0);
-		}
-		50% {
-			transform: translateX(calc(var(--pic-width) + 100vw));
-		}
+	img:last-of-type {
+		margin-right: 0;
 	}
 </style>

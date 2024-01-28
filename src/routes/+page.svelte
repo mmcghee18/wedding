@@ -23,36 +23,33 @@
 	</div>
 
 	<div class="text-wrapper">
-		<div class="text">
-			<p>
-				In getting married we are forging a new family unit. We enter this
-				commitment both hopeful for our future and the joys ahead, and with
-				somber acknowledgement of unforeseen challenges to come.
-			</p>
+		<p>
+			In getting married we are forging a new family unit. We enter this
+			commitment both hopeful for the joys ahead and with somber acknowledgement
+			of the inevitable trials to come.
+		</p>
 
-			<p>
-				To navigate the joys and challenges ahead, we will need the twin pillars
-				of celebration and support from our community - all of you! We hope that
-				you will leave our wedding with a deeper understanding of us as a couple
-				and with your own renewed commitments to community and family.
-			</p>
-		</div>
+		<p>
+			To navigate the joys and challenges ahead, we will need the twin pillars
+			of celebration and support from our community (that's you!). We hope that
+			you will leave our wedding with a deeper understanding of us as a couple
+			and with your own renewed commitments to community and family.
+		</p>
 
-		<div class="text">
-			<p>
-				We're so excited to get married on the first day of Pride Month! It's
-				2024, a time when a queer couple getting married is wonderfully
-				ordinary.
-			</p>
-			<p>
-				At the same time, it's an opportunity to reflect on those who fought
-				(recently!) for this right, and continue to fight for the freedom and
-				acceptance we all deserve.
-			</p>
-			<p>
-				This event is a celebration of queer love and the families we create.
-			</p>
-		</div>
+		<p>
+			We're so excited to get married on the first day of Pride Month! It's
+			2024, a time when a queer couple getting married is wonderfully ordinary.
+		</p>
+
+		<p>
+			At the same time, it's an opportunity to reflect on the all too recent
+			fight for this right, as we continue to fight for the freedom and
+			acceptance we all deserve. This event is a celebration of queer love and
+			the families we create.
+		</p>
+
+		<p>Love,</p>
+		<p style="margin: 0">Michelle & Megan</p>
 	</div>
 </div>
 
@@ -97,6 +94,9 @@
 	}
 	.text-wrapper {
 		display: flex;
+		flex-direction: column;
+		align-items: center;
+		max-width: 600px;
 	}
 	.text {
 		display: flex;

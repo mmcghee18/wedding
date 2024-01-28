@@ -33,7 +33,7 @@
 		<circle
 			cx={d.coords[0]}
 			cy={d.coords[1]}
-			r="4"
+			r="6"
 			class:pending={!d.responded}
 			class:coming={d.responded && d.coming}
 			class:ca={d.state === "CA"}
@@ -44,18 +44,8 @@
 
 <style>
 	circle {
-		opacity: 0;
+		opacity: 0.5;
 		transition: opacity 1s var(--delay) ease-in-out;
-	}
-	circle.coming {
 		fill: var(--color-accent);
-		opacity: 1;
-	}
-	.pending {
-		fill: var(--color-fg);
-		opacity: 0.2;
-	}
-	.pending.ca {
-		opacity: 0;
 	}
 </style>
