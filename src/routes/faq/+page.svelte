@@ -9,7 +9,7 @@
 			answer: `Please <a href='https://www.zola.com/wedding/michelleandmegan2024/rsvp' target='_blank'>RSVP</a> by April 1st!`
 		},
 		{
-			question: "Is there a dress code?",
+			question: "Is there a dress code for Saturday?",
 			answer:
 				"Semi-formal or (a term we made up) Forest Formal!\n\nBy which we mean, something special and fancy, but also reasonable to wear in the woods (maybe not your highest heel)."
 		},
@@ -32,10 +32,10 @@
 		{
 			question:
 				"I'm not staying onsite on Saturday. What's the deal with parking?",
-			answer:
-				"See the <a href='/travel'>travel page</a> ('Important note about driving to Waterfall Lodge') for details."
+			answer: `See the <a href='${base}/travel'>travel page</a> ('Important note about driving to Waterfall Lodge') for details.`
 		}
 	];
+	``;
 </script>
 
 <div class="faq-title">
