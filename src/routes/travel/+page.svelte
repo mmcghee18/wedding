@@ -14,6 +14,30 @@
 		From there, you can drive down to Ben Lomond and Santa Cruz - it is about an
 		hour and a half from SFO and 45 minutes from SJC.
 	</p>
+
+	<p>
+		<strong>Important note about driving to Waterfall Lodge:</strong>
+	</p>
+	<p>
+		Waterfall Lodge has limited parking and does not allow people to park onsite
+		unless they're staying there overnight. If you're staying elsewhere on
+		Saturday night, we have a shuttle that will pick you up ~5 minutes out from
+		Waterfall Lodge and bring you in. The shuttle pick-up is at this address: <a
+			href="https://maps.app.goo.gl/ZDKXz6fA4psmTPGC7"
+			>St Peter & St Paul Orthodox</a
+		>.
+	</p>
+
+	<p>
+		The shuttles will also bring guests back to their cars at the end of the
+		reception.
+	</p>
+
+	<p>
+		If you stay in a cabin on Saturday night after the ceremony (see info
+		below), you are able to drive into and park at Waterfall Lodge.
+	</p>
+	<p></p>
 </div>
 
 <div class="cabins">

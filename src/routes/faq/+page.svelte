@@ -31,9 +31,9 @@
 		},
 		{
 			question:
-				"I'm not staying onsite on Saturday. Explain the whole shuttle thing again?",
+				"I'm not staying onsite on Saturday. What's the deal with parking?",
 			answer:
-				"Waterfall Lodge does not allow people to park onsite unless they're staying there overnight.\n\nSo, on Saturday, you'll park in the parking lot of a church that is 5 minutes from Waterfall Lodge. Here's the address: <a href='https://maps.app.goo.gl/ZDKXz6fA4psmTPGC7'>St Peter & St Paul Orthodox</a>.\n\nFrom there, a shuttle will pick you up and bring you to Waterfall Lodge for the ceremony and reception. The shuttles will also bring guests back to their cars at the end of the night.\n\nIf you're staying onsite on Saturday, you can park at Waterfall Lodge."
+				"See the <a href='/travel'>travel page</a> ('Important note about driving to Waterfall Lodge') for details."
 		}
 	];
 </script>
