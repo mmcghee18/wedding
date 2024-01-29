@@ -5,9 +5,9 @@
 	const sections = [
 		{
 			title: "home",
-			pics: 4,
+			pics: 6,
 			description:
-				"we love our home in beautiful oakland, ca, but have shared homes together across the country, including in beautiful saint paul, mn!"
+				"we love our home in beautiful oakland, ca, but have built homes together across the country, including in beautiful saint paul, mn!"
 		},
 		{
 			title: "travel",
