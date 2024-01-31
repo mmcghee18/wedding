@@ -15,29 +15,30 @@
 		hour and a half from SFO and 45 minutes from SJC.
 	</p>
 
-	<p>
-		<strong>Important note about driving to Waterfall Lodge:</strong>
-	</p>
-	<p>
-		Waterfall Lodge has limited parking and does not allow people to park onsite
-		unless they're staying there overnight. If you're staying elsewhere on
-		Saturday night, we have a shuttle that will pick you up ~5 minutes out from
-		Waterfall Lodge and bring you in. The shuttle pick-up is at this address: <a
-			href="https://maps.app.goo.gl/ZDKXz6fA4psmTPGC7"
-			>St Peter & St Paul Orthodox</a
-		>.
-	</p>
+	<div class="highlight">
+		<p>
+			<strong>Important note about driving to Waterfall Lodge:</strong>
+		</p>
+		<p>
+			Waterfall Lodge has limited parking and does not allow people to park
+			onsite unless they're staying there overnight. If you're staying elsewhere
+			on Saturday night, we have a shuttle that will pick you up ~5 minutes out
+			from Waterfall Lodge and bring you in. The shuttle pick-up is at this
+			address: <a href="https://maps.app.goo.gl/ZDKXz6fA4psmTPGC7"
+				>St Peter & St Paul Orthodox</a
+			>. Plan to catch a shuttle around 2:30pm, stay tuned for more details.
+		</p>
 
-	<p>
-		The shuttles will also bring guests back to their cars at the end of the
-		reception.
-	</p>
+		<p>
+			The shuttles will also bring guests back to their cars at the end of the
+			reception.
+		</p>
 
-	<p>
-		If you stay in a cabin on Saturday night after the ceremony (see info
-		below), you are able to drive into and park at Waterfall Lodge.
-	</p>
-	<p></p>
+		<p>
+			If you stay in a cabin on Saturday night after the ceremony (see info
+			below), you are able to drive into and park at Waterfall Lodge.
+		</p>
+	</div>
 </div>
 
 <div class="cabins">
@@ -92,6 +93,14 @@
 	</ul>
 </div>
 
+<div class="map">
+	<iframe
+		src="https://www.google.com/maps/d/u/0/embed?mid=1ISti2Tg9F6tra00AhR5ym9EGrlyLPUY&ehbc=2E312F"
+		width="640"
+		height="480"
+	></iframe>
+</div>
+
 <style>
 	h3 {
 		font-family: var(--serif);
@@ -108,5 +117,14 @@
 	}
 	.where-to-stay {
 		margin-top: 4rem;
+	}
+	.map {
+		margin-top: 4rem;
+		display: flex;
+		justify-content: center;
+	}
+	.highlight {
+		background: rgb(246, 239, 204);
+		padding: 0.5rem 1rem;
 	}
 </style>

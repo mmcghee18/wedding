@@ -18,5 +18,6 @@
 		flex-direction: column;
 		text-align: center;
 		font-size: 0.8rem;
+		padding: 1rem;
 	}
 </style>

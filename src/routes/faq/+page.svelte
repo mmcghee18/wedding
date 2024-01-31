@@ -11,7 +11,11 @@
 		{
 			question: "Is there a dress code for Saturday?",
 			answer:
-				"Semi-formal or (a term we made up) Forest Formal!\n\nBy which we mean, something special and fancy, but also reasonable to wear in the woods (maybe not your highest heel)."
+				"<a href=https://www.theknot.com/content/what-to-wear-semi-formal#what-is-semi-formal-wedding target=_blank>Semi-formal</a> or (a term we made up) Forest Formal!\n\nBy which we mean, something special and fancy, but also reasonable to wear in the woods (maybe not your highest heel)."
+		},
+		{
+			question: "What's the weather going to be like?",
+			answer: "Probably mid-60s during the day and mid-50s at night."
 		},
 		{
 			question: "Are kids invited?",
