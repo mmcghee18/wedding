@@ -20,8 +20,8 @@
 
 <p>If you want to give us something, you can check out our registry below.</p>
 <p>
-	We know travel and accomodations can be expensive, so no pressure to spend a
-	lot. Homemade gifts or cards are also welcome and appreciated.
+	We know travel and accomodations can be expensive, so no pressure. Homemade
+	gifts or cards are also welcome and appreciated.
 </p>
 <p>Your presence is the most important gift to us!</p>
 
