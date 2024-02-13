@@ -59,7 +59,8 @@
 			<a
 				href="https://www.zola.com/wedding/michelleandmegan2024/rsvp"
 				target="_blank">RSVP</a
-			> and we'll be in touch.
+			> and we'll be in touch. There are a limited number of cabins available, and
+			we'll be assigning them on a first-come, first-served basis.
 		</li>
 
 		<li><strong>Hotels</strong> - There are a number of nearby hotels.</li>
