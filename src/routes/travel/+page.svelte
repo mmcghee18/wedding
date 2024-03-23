@@ -14,10 +14,17 @@
 		From there, you can drive down to Ben Lomond and Santa Cruz - it is about an
 		hour and a half from SFO and 45 minutes from SJC.
 	</p>
+	<p>
+		Reach out at <strong>michellemegan.2024@gmail.com</strong> if you need help coordinating
+		a ride from the airport. We'll do our best to connect people who could potentially
+		carpool!
+	</p>
 
 	<div class="highlight">
 		<p>
-			<strong>Important note about driving to Waterfall Lodge:</strong>
+			<strong
+				>Important note about driving to the Saturday ceremony/reception:</strong
+			>
 		</p>
 		<p>
 			Waterfall Lodge has limited parking and does not allow people to park
@@ -35,48 +42,41 @@
 		</p>
 
 		<p>
-			If you stay in a cabin on Saturday night after the ceremony (see info
-			below), you are able to drive into and park at Waterfall Lodge.
+			If you're staying in a cabin on Saturday night after the ceremony, you are
+			able to drive into and park at Waterfall Lodge.
 		</p>
 	</div>
 </div>
 
-<div class="cabins">
+<!-- <div class="cabins">
 	<img src="cabins.jpeg" />
 	<p class="caption">The cabins at Waterfall Lodge 😍</p>
-</div>
+</div> -->
 
 <div class="where-to-stay">
 	<h3>Where to stay</h3>
 	<ul>
 		<li>
-			<strong>Waterfall Lodge</strong> - This is where Saturday's ceremony and
-			reception will be held. There are cabins that are available on Saturday
-			night only. This is a great option if you don't want to drive after the
-			party, or just want more time in the redwoods! Cabins are $295 each, and
-			can be occupied by groups of 2-4. If you are interested in this, please
-			indicate that in your
-			<a
-				href="https://www.zola.com/wedding/michelleandmegan2024/rsvp"
-				target="_blank">RSVP</a
-			> and we'll be in touch. There are a limited number of cabins available, and
-			we'll be assigning them on a first-come, first-served basis.
+			<strong>Waterfall Lodge</strong> (Saturday night only) - Update: the cabins
+			are filled! If you're staying in a cabin you should have received an email
+			with instructions on how to reserve it.
 		</li>
 
 		<li><strong>Hotels</strong> - There are a number of nearby hotels.</li>
 		<ul>
 			<li>
-				<strong>Historic Brookdale Lodge</strong> (<a
-					href="https://maps.app.goo.gl/29wX72NpXNy46jJt5">Google Maps</a
-				>)<br />
-				This is one of the closest hotels to Waterfall Lodge.
-			</li>
-			<li>
 				<strong>Quality Inn & Suites Santa Cruz Mountains</strong> (<a
 					href="https://maps.app.goo.gl/r9j1Jp4ppNUw1LdU9">Google Maps</a
 				>)<br />
-				Another option in Ben Lomond, just 5 minutes away from Waterfall Lodge.
+				Just 5 minutes from Waterfall Lodge.
 			</li>
+			<li>
+				<strong>Historic Brookdale Lodge</strong> (<a
+					href="https://maps.app.goo.gl/29wX72NpXNy46jJt5">Google Maps</a
+				>)<br />
+				Also close to Waterfall Lodge.
+			</li>
+
 			<li>
 				<strong>Hampton Inn Santa Cruz West</strong> (<a
 					href="https://maps.app.goo.gl/jdkLgZiaAjDkC8SV6">Google Maps</a
