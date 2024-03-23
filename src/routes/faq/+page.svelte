@@ -29,12 +29,6 @@
 		},
 		{
 			question:
-				"I want to stay in one of those gorgeous cabins on Saturday! What do I do?",
-			answer:
-				"Sweet! On your <a href='https://www.zola.com/wedding/michelleandmegan2024/rsvp' target='_blank'>RSVP</a>, indicate that you're interested. We will follow up with you from there."
-		},
-		{
-			question:
 				"I'm not staying onsite on Saturday. What's the deal with parking?",
 			answer: `See the <a href='${base}/travel'>travel page</a> ('Important note about driving to Waterfall Lodge') for details.`
 		}
