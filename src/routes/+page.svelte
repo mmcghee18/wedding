@@ -3,7 +3,7 @@
 </script>
 
 <div class="container">
-	<PageTitle>Michelle & Megan</PageTitle>
+	<PageTitle>Megan & Michelle</PageTitle>
 
 	<div class="countdown">
 		<h2>June 1, 2024</h2>
@@ -12,7 +12,7 @@
 			Please <a
 				href={"https://www.zola.com/wedding/michelleandmegan2024/rsvp"}
 				target="_blank">RSVP</a
-			> by April 1st :)
+			> by April 1st!
 		</div>
 	</div>
 
@@ -49,7 +49,7 @@
 		</p>
 
 		<p>Love,</p>
-		<p style="margin: 0">Michelle & Megan</p>
+		<p style="margin: 0">Megan & Michelle</p>
 	</div>
 </div>
 

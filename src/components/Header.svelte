@@ -66,7 +66,7 @@
 			</button>
 
 			<div class="info">
-				<div>Michelle & Megan</div>
+				<div>Megan & Michelle</div>
 				<div>June 1, 2024</div>
 			</div>
 
