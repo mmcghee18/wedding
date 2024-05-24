@@ -5,6 +5,7 @@
 	export let locationName;
 	export let locationAddress;
 	export let locationLink;
+	export let attire;
 	export let description;
 </script>
 
@@ -14,7 +15,8 @@
 	<p>{time}</p>
 	<p class="location-name">{locationName}</p>
 	<a href={locationLink} target="_blank">{locationAddress}</a>
-	<p class="description">{description}</p>
+	<p class="description">Attire: {attire}</p>
+	<p class="description">{@html description}</p>
 </div>
 
 <style>
@@ -47,5 +49,6 @@
 	}
 	p.description {
 		margin-top: 1rem;
+		max-width: 500px;
 	}
 </style>

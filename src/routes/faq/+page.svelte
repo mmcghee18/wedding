@@ -5,32 +5,18 @@
 
 	const faqs = [
 		{
-			question: "When should I RSVP by?",
-			answer: `Please <a href='https://www.zola.com/wedding/michelleandmegan2024/rsvp' target='_blank'>RSVP</a> by April 1st!`
+			question: "What's the weather going to be like?",
+			answer: "Low 70s during the day and mid-50s at night. Bring a layer!"
 		},
 		{
 			question: "Is there a dress code for Saturday?",
 			answer:
-				"<a href=https://www.theknot.com/content/what-to-wear-semi-formal#what-is-semi-formal-wedding target=_blank>Semi-formal</a> or (a term we made up) Forest Formal!\n\nBy which we mean, something special and fancy, but also reasonable to wear in the woods (maybe not your highest heel)."
-		},
-		{
-			question: "What's the weather going to be like?",
-			answer: "Probably mid-60s during the day and mid-50s at night."
-		},
-		{
-			question: "Are kids invited?",
-			answer:
-				"Do what is best for you! Your kids are welcome if you'd like to bring them."
-		},
-		{
-			question: "Can I bring a date?",
-			answer:
-				"If your invitation includes a +1, then yes. If not, reach out and we'll see what we can do as RSVPs come in."
+				"<a href=https://www.theknot.com/content/what-to-wear-semi-formal#what-is-semi-formal-wedding target=_blank>Semi-formal</a> or (a term we made up) Forest Formal!\n\nBy which we mean, something special and fancy, but also reasonable to wear in the woods. We'd recommend wearing shoes that are comfortable to walk in."
 		},
 		{
 			question:
-				"I'm not staying onsite on Saturday. What's the deal with parking?",
-			answer: `See the <a href='${base}/travel'>travel page</a> ('Important note about driving to Waterfall Lodge') for details.`
+				"Where do I park for the ceremony and reception at Waterfall Lodge?",
+			answer: `If you're staying at Waterfall Lodge, you'll be able to park next to your cabin. If not, you'll take a short shuttle ride in. See the <a href='${base}/travel'>travel page</a> for more details.`
 		}
 	];
 	``;

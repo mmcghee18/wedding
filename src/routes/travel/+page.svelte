@@ -5,7 +5,32 @@
 <PageTitle>Travel</PageTitle>
 
 <div class="getting-there">
-	<h3>Getting there</h3>
+	<h3>Getting to Waterfall Lodge</h3>
+	<p>
+		Waterfall Lodge has limited parking and does not allow people to park onsite
+		unless they're staying there overnight. If you're staying elsewhere on
+		Saturday night, we have a shuttle that will pick you up ~5 minutes out from
+		Waterfall Lodge and bring you in. The shuttle pick-up is at this address: <a
+			href="https://maps.app.goo.gl/ZDKXz6fA4psmTPGC7"
+			target="_blank">St Peter & St Paul Orthodox</a
+		>. You should park in the green zone on the map below.
+		<strong>Plan to catch a shuttle between 2:15 - 2:45pm.</strong>
+	</p>
+
+	<img src="church.png" style="width: 500px; align-self: center" />
+
+	<p>
+		The shuttles will also bring guests back to their cars at the end of the
+		reception. The earliest shuttle will leave at 8:30pm. The latest shuttles
+		will run until 1am bringing guests to and from the afterparty.
+	</p>
+
+	<p>
+		If you're staying in a cabin on Saturday night after the ceremony, can just
+		drive into and park at Waterfall Lodge. You can arrive as early as 1pm.
+	</p>
+
+	<h3>Airports</h3>
 	<p>
 		For out of town guests, we recommend flying into San Francisco (SFO) or San
 		Jose (SJC) airports.
@@ -16,36 +41,8 @@
 	</p>
 	<p>
 		Reach out at <strong>michellemegan.2024@gmail.com</strong> if you need help coordinating
-		a ride from the airport. We'll do our best to connect people who could potentially
-		carpool!
+		a ride from the airport.
 	</p>
-
-	<div class="highlight">
-		<p>
-			<strong
-				>Important note about driving to the Saturday ceremony/reception:</strong
-			>
-		</p>
-		<p>
-			Waterfall Lodge has limited parking and does not allow people to park
-			onsite unless they're staying there overnight. If you're staying elsewhere
-			on Saturday night, we have a shuttle that will pick you up ~5 minutes out
-			from Waterfall Lodge and bring you in. The shuttle pick-up is at this
-			address: <a href="https://maps.app.goo.gl/ZDKXz6fA4psmTPGC7"
-				>St Peter & St Paul Orthodox</a
-			>. Plan to catch a shuttle around 2:30pm, stay tuned for more details.
-		</p>
-
-		<p>
-			The shuttles will also bring guests back to their cars at the end of the
-			reception.
-		</p>
-
-		<p>
-			If you're staying in a cabin on Saturday night after the ceremony, you are
-			able to drive into and park at Waterfall Lodge.
-		</p>
-	</div>
 </div>
 
 <!-- <div class="cabins">
@@ -111,6 +108,8 @@
 	}
 	.getting-there {
 		margin-bottom: 4rem;
+		display: flex;
+		flex-direction: column;
 	}
 	.cabins {
 		max-width: 500px;
